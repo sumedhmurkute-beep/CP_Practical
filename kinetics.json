@@ -1,0 +1,32 @@
+[
+    {
+        "Time_min":0,
+        "Run1_mol_L_low_catalyst":1.5,
+        "Run2_mol_L_high_catalyst":1.5
+    },
+    {
+        "Time_min":10,
+        "Run1_mol_L_low_catalyst":1.17,
+        "Run2_mol_L_high_catalyst":0.96
+    },
+    {
+        "Time_min":20,
+        "Run1_mol_L_low_catalyst":0.91,
+        "Run2_mol_L_high_catalyst":0.61
+    },
+    {
+        "Time_min":30,
+        "Run1_mol_L_low_catalyst":0.71,
+        "Run2_mol_L_high_catalyst":0.39
+    },
+    {
+        "Time_min":40,
+        "Run1_mol_L_low_catalyst":0.55,
+        "Run2_mol_L_high_catalyst":0.25
+    },
+    {
+        "Time_min":50,
+        "Run1_mol_L_low_catalyst":0.43,
+        "Run2_mol_L_high_catalyst":0.16
+    }
+]
